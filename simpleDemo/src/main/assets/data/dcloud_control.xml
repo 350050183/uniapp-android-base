@@ -1,0 +1,5 @@
+<hbuilder debug="true" syncDebug="true">
+<apps>
+    <app appid="[replace-with-our-AppID,ex:__UNI__XXXXXXX]" appver="1.0.0"/>
+</apps>
+</hbuilder>
